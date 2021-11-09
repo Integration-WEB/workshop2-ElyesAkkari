@@ -1,0 +1,14 @@
+.text, h1, textarea {
+  color: black;
+  font-size: 20px;
+}
+
+.btn {
+  border: 3px solid yellow;
+}
+
+.langage {
+  content: "html";
+}
+
+/*# sourceMappingURL=style.css.map */
